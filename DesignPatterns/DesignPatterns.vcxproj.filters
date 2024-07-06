@@ -19,15 +19,30 @@
     <Filter Include="Design Patterns\Factory">
       <UniqueIdentifier>{8b12ff36-749e-4387-a9e9-121711a78f2c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Design Patterns\Singleton">
+      <UniqueIdentifier>{eeb56286-9849-4483-9338-1d1ecd5ee2fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>Design Patterns\Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="MySingletonTest.cpp">
+      <Filter>Design Patterns\Singleton</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ObjectFactory.h">
       <Filter>Design Patterns\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Design Patterns\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="MySingletonTest.h">
+      <Filter>Design Patterns\Singleton</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

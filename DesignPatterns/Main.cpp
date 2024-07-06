@@ -1,5 +1,7 @@
 #include <iostream>
 #include "../DesignPatterns/ObjectFactory.h"
+#include "../DesignPatterns//Singleton.h"
+#include "../DesignPatterns/MySingletonTest.h"
 #include <string>
 #include <memory>
 
@@ -39,12 +41,17 @@ struct MyStruct
 
 int main()
 {
-    ObjectFactory factory;
-    std::shared_ptr<MyObject> object_1 = factory.CreateObject<MyObject>();
+    //ObjectFactory factory;
+   /* std::shared_ptr<MyObject> object_1 = factory.CreateObject<MyObject>();
     std::shared_ptr<MyObject> object_2 = factory.CreateObject<MyObject>(10);
     std::shared_ptr<MyObject> object_3 = factory.CreateObject<MyObject>(10,"Kirill");
 
-    std::shared_ptr<MyStruct> struct_1 = factory.CreateObject<MyStruct>();
+    std::shared_ptr<MyStruct> struct_1 = factory.CreateObject<MyStruct>();*/
+
+    MySingletonTest::Instance(10)->count++;
+    MySingletonTest::Instance()->count++;
+
+    std::cout << MySingletonTest::Instance()->count;
 
 	std::cin.get();
 }
