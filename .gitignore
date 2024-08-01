@@ -1,32 +1,149 @@
-# Prerequisites
-*.d
+# User-specific files
+.vscode/
+*.code-workspace
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
 
-# Precompiled Headers
-*.gch
-*.pch
+# User-specific files (Mono Auto Generated)
+mono_crash.*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Mono auto generated files
+mono_crash.*
 
-# Fortran module files
-*.mod
-*.smod
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
 
-# Executables
-*.exe
-*.out
-*.app
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResults/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# Visual Studio 2019 auto generated files
+.vs/
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NGen folder
+[Bb]in/Debug/
+[Bb]in/Release/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Dependency directories
+packages/
+.nuget/
+
+# Avoid storing sensitive or secret data in public repositories
+secrets/
+*.secret
+*.password
+*.key
+
+# Rider project files
+.idea/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider directories
+.idea/
+.idea_modules/
+.idea_properties/
+.idea_sandbox/
+
+# Rider auto-generated files
+*.iml
+
+# Rider CMake project files
+.idea/cmake/
+.idea/toolchains/
+.idea/.idea/
+
+# Rider workspace files
+workspace.xml
+
+# Rider project files
+.idea/
+
+# Rider logs
+.idea/logs/
+
+# Rider workspace files
+.idea/workspace.xml
+
+# Rider run configurations
+.idea/runConfigurations/
+
+# Rider directories
+.idea_modules/
+.idea_properties/
+.idea_sandbox/
+.idea/cmake/
+.idea/toolchains/
+.idea/.idea/
+
+# Rider auto-generated files
+*.iml
+
+# Rider workspace files
+workspace.xml
+
+# Rider project files
+.idea/
+
+# Rider logs
+.idea/logs/
+
+# Rider workspace files
+.idea/workspace.xml
+
+# Rider run configurations
+.idea/runConfigurations/
