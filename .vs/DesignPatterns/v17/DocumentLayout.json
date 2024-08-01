@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\ObserverPattern\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\MySingletonTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\Singleton\\MySingletonTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\MySingletonTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\MySingletonTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\Singleton\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObjectFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\ObjectFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\ObserverPattern\\Observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\ObserverPattern\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525FF6AC-E787-414E-BFD3-FA5F31AC497C}|DesignPatterns\\DesignPatterns.vcxproj|solutionrelative:DesignPatterns\\ObserverPattern\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySingletonTest.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\MySingletonTest.h",
+              "RelativeDocumentMoniker": "DesignPatterns\\Singleton\\MySingletonTest.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\MySingletonTest.h",
+              "RelativeToolTip": "DesignPatterns\\Singleton\\MySingletonTest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-01T03:01:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cpp",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.cpp",
+              "RelativeDocumentMoniker": "DesignPatterns\\ObserverPattern\\Subject.cpp",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.cpp",
+              "RelativeToolTip": "DesignPatterns\\ObserverPattern\\Subject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-01T02:49:56.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Observer.cpp",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.cpp",
+              "RelativeDocumentMoniker": "DesignPatterns\\ObserverPattern\\Observer.cpp",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.cpp",
+              "RelativeToolTip": "DesignPatterns\\ObserverPattern\\Observer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-01T02:44:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.h",
+              "RelativeDocumentMoniker": "DesignPatterns\\ObserverPattern\\Subject.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Subject.h",
+              "RelativeToolTip": "DesignPatterns\\ObserverPattern\\Subject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-01T02:16:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Observer.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.h",
+              "RelativeDocumentMoniker": "DesignPatterns\\ObserverPattern\\Observer.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObserverPattern\\Observer.h",
+              "RelativeToolTip": "DesignPatterns\\ObserverPattern\\Observer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-01T02:08:48.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\Singleton.h",
+              "RelativeDocumentMoniker": "DesignPatterns\\Singleton\\Singleton.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton\\Singleton.h",
+              "RelativeToolTip": "DesignPatterns\\Singleton\\Singleton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T11:34:33.055Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,61 +126,9 @@
               "RelativeDocumentMoniker": "DesignPatterns\\Main.cpp",
               "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Main.cpp",
               "RelativeToolTip": "DesignPatterns\\Main.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAABAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwC4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-04T22:56:35.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Singleton.cpp",
-              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.cpp",
-              "RelativeDocumentMoniker": "DesignPatterns\\Singleton.cpp",
-              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.cpp",
-              "RelativeToolTip": "DesignPatterns\\Singleton.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-06T15:38:50.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MySingletonTest.h",
-              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\MySingletonTest.h",
-              "RelativeDocumentMoniker": "DesignPatterns\\MySingletonTest.h",
-              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\MySingletonTest.h",
-              "RelativeToolTip": "DesignPatterns\\MySingletonTest.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-06T15:38:04.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Singleton.h",
-              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.h",
-              "RelativeDocumentMoniker": "DesignPatterns\\Singleton.h",
-              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\Singleton.h",
-              "RelativeToolTip": "DesignPatterns\\Singleton.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-06T15:28:07.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ObjectFactory.h",
-              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObjectFactory.h",
-              "RelativeDocumentMoniker": "DesignPatterns\\ObjectFactory.h",
-              "ToolTip": "D:\\Programming\\C\u002B\u002B\\DesignPatterns\\Game-Dev-Design-Patterns\\DesignPatterns\\ObjectFactory.h",
-              "RelativeToolTip": "DesignPatterns\\ObjectFactory.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-04T22:58:15.314Z",
               "EditorCaption": ""
             }
           ]

@@ -13,13 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Design Patterns">
+    <Filter Include="Source Files\Design Patterns">
       <UniqueIdentifier>{de6f7957-16a3-41f0-a063-7a61b20e3bd1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Design Patterns\Factory">
+    <Filter Include="Source Files\Design Patterns\Factory">
       <UniqueIdentifier>{8b12ff36-749e-4387-a9e9-121711a78f2c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Design Patterns\Singleton">
+    <Filter Include="Source Files\Design Patterns\Singleton">
       <UniqueIdentifier>{eeb56286-9849-4483-9338-1d1ecd5ee2fa}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -27,22 +27,52 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Singleton.cpp">
-      <Filter>Design Patterns\Singleton</Filter>
+    <ClCompile Include="Component\HealthComponent.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MySingletonTest.cpp">
-      <Filter>Design Patterns\Singleton</Filter>
+    <ClCompile Include="Component\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObserverPattern\Observer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObserverPattern\Subject.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ObjectFactory.h">
-      <Filter>Design Patterns\Factory</Filter>
+    <ClInclude Include="Factory\ObjectFactory.h">
+      <Filter>Source Files\Design Patterns\Factory</Filter>
     </ClInclude>
-    <ClInclude Include="Singleton.h">
-      <Filter>Design Patterns\Singleton</Filter>
+    <ClInclude Include="Singleton\Singleton.h">
+      <Filter>Source Files\Design Patterns\Singleton</Filter>
     </ClInclude>
-    <ClInclude Include="MySingletonTest.h">
-      <Filter>Design Patterns\Singleton</Filter>
+    <ClInclude Include="Singleton\MySingletonTest.h">
+      <Filter>Source Files\Design Patterns\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\HealthComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObserverPattern\Observer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObserverPattern\Subject.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

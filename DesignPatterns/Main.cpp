@@ -1,9 +1,12 @@
 #include <iostream>
-#include "../DesignPatterns/ObjectFactory.h"
-#include "../DesignPatterns//Singleton.h"
-#include "../DesignPatterns/MySingletonTest.h"
 #include <string>
 #include <memory>
+#include "Factory/ObjectFactory.h"
+#include "Singleton/MySingletonTest.h"
+#include "Component/HealthComponent.h"
+#include "Component/Player.h"
+#include "ObserverPattern/Observer.h"
+#include "ObserverPattern/Subject.h"
 
 class MyObject
 {
@@ -41,17 +44,44 @@ struct MyStruct
 
 int main()
 {
-    //ObjectFactory factory;
+    /*ObjectFactory factory;*/
    /* std::shared_ptr<MyObject> object_1 = factory.CreateObject<MyObject>();
     std::shared_ptr<MyObject> object_2 = factory.CreateObject<MyObject>(10);
     std::shared_ptr<MyObject> object_3 = factory.CreateObject<MyObject>(10,"Kirill");
 
     std::shared_ptr<MyStruct> struct_1 = factory.CreateObject<MyStruct>();*/
 
-    MySingletonTest::Instance(10)->count++;
-    MySingletonTest::Instance()->count++;
+    /*MySingletonTest::InitInstace(10);*/
+    //MySingletonTest* Singleton = MySingletonTest::Instance();
+    //MySingletonTest* Singleton2 = MySingletonTest::Instance();
 
-    std::cout << MySingletonTest::Instance()->count;
+    {
+       /* Player player;
+
+        player.AttachComponent<HealthComponent>();
+        HealthComponent* health1 =  player.GetComponent<HealthComponent>();
+
+        if (health1)
+        {
+            std::cout << "found!\n";
+            health1->PrintName();
+        }
+        else
+        {
+            std::cout << "NOT found!\n";
+        }*/
+
+
+       /* auto observer1 = std::make_shared<Observer>();
+        auto observer2 = std::make_shared<Observer>();
+
+        observer1->TryToSub();
+        observer2->TryToSub();
+
+        Subject::Notify();*/
+    }
+   
+   
 
 	std::cin.get();
 }

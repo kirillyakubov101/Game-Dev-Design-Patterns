@@ -127,14 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Component\Component.cpp" />
+    <ClCompile Include="Component\Entity.cpp" />
+    <ClCompile Include="Component\HealthComponent.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="MySingletonTest.cpp" />
-    <ClCompile Include="Singleton.cpp" />
+    <ClCompile Include="Component\Player.cpp" />
+    <ClCompile Include="ObserverPattern\Observer.cpp" />
+    <ClCompile Include="ObserverPattern\Subject.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MySingletonTest.h" />
-    <ClInclude Include="ObjectFactory.h" />
-    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="Component\Component.h" />
+    <ClInclude Include="Component\Entity.h" />
+    <ClInclude Include="Component\HealthComponent.h" />
+    <ClInclude Include="Component\Player.h" />
+    <ClInclude Include="ObserverPattern\Observer.h" />
+    <ClInclude Include="Singleton\MySingletonTest.h" />
+    <ClInclude Include="Factory\ObjectFactory.h" />
+    <ClInclude Include="Singleton\Singleton.h" />
+    <ClInclude Include="ObserverPattern\Subject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

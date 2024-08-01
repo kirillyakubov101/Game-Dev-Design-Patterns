@@ -1,3 +1,7 @@
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Component\Component.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Component.obj
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Component\Entity.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Entity.obj
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Component\HealthComponent.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\HealthComponent.obj
 D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Main.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Main.obj
-D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\MySingletonTest.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\MySingletonTest.obj
-D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Singleton.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Singleton.obj
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\Component\Player.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Player.obj
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\ObserverPattern\Observer.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Observer.obj
+D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\ObserverPattern\Subject.cpp;D:\Programming\C++\DesignPatterns\Game-Dev-Design-Patterns\DesignPatterns\x64\Debug\Subject.obj
